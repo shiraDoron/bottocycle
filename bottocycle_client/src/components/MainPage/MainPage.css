@@ -1,0 +1,41 @@
+.buisiness-main-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.buisiness-main-page-header {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #a0a0a0;
+}
+
+.main-page-hello-title {
+    color: rgb(95, 118, 250);
+    padding-left: 2vw;
+}
+
+.main-page-req-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.main-page-req-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.open-req-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 25px;
+
+
+}
+
